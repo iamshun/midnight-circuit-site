@@ -8,12 +8,12 @@ Public product and support website for **午夜電路 Midnight Circuit**, develo
 - The reviewed privacy policy distinguishes age-separated 1.0.2-and-later builds from earlier internal versions.
 - The homepage does not claim that Google Play Games is available to every player or that review for children and families is complete.
 
-## Planned GitHub Pages URLs
+## Live GitHub Pages URLs
 
 - Homepage: https://iamshun.github.io/midnight-circuit-site/
 - Privacy policy: https://iamshun.github.io/midnight-circuit-site/privacy.html
 
-**GitHub Pages is not yet enabled.** Publishing these files to the repository does not mean the planned URLs are live; they may return 404 until Pages is configured. Enable Pages from `main` and `/ (root)` in the repository settings.
+**GitHub Pages is enabled from `main` and `/ (root)`, with HTTPS enforced.** On 24 October 2026, the homepage and privacy policy both returned HTTP 200 over HTTPS and matched the reviewed HTML files byte for byte. This confirms website delivery; it does not confirm OAuth publication, Google review, or universal Google Play Games access.
 
 Each page supports `?lang=zh-TW`, `?lang=en` and `?lang=ja`.
 
