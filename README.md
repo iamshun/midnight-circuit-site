@@ -5,8 +5,8 @@ Public product and support website for **午夜電路 Midnight Circuit**, develo
 - Plain HTML with Traditional Chinese, English and Japanese views.
 - No game source code, build artifacts, player records or credentials are included.
 - Support: 17apphouse@gmail.com.
-- The policy distinguishes earlier age gates from the v28 (1.0.4) regional eligibility flow and optional Google Play Age Signals 0.0.4. Eligible players use one shared leaderboard per table, without age-separated boards.
-- The player selects residence and confirms applicable age and required consent. Local declarations, Google age signals, PGS sign-in and public-profile eligibility are separate; the site does not claim worldwide legal approval or universal signal availability. Raw signals are used only in memory for compliance, never for scores or analytics.
+- Version 29 (1.0.5) removes country, self-declared age and local eligibility declarations. Google manages PGS account access and public-profile availability; one global leaderboard remains per table.
+- Age Signals 0.0.4 still respects mandatory verification and pending/declined approval. Unknown signals do not mean verified age, and Google sign-in is not worldwide legal approval. Complete offline gameplay stays available.
 - The homepage does not claim that Google Play Games is available to every player or that review for children and families is complete.
 
 ## Live GitHub Pages URLs
