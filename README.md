@@ -5,7 +5,7 @@ Public product and support website for **午夜電路 Midnight Circuit**, develo
 - Plain HTML with Traditional Chinese, English and Japanese views.
 - No game source code, build artifacts, player records or credentials are included.
 - Support: 17apphouse@gmail.com.
-- The reviewed privacy policy distinguishes age-separated 1.0.2-and-later builds from earlier internal versions.
+- The privacy policy distinguishes v24 launch-time age prompts from the v26 first-online eligibility choice. Tables use shared leaderboards, without age-separated boards.
 - The homepage does not claim that Google Play Games is available to every player or that review for children and families is complete.
 
 ## Live GitHub Pages URLs
@@ -20,3 +20,5 @@ Each page supports `?lang=zh-TW`, `?lang=en` and `?lang=ja`.
 Serve `index.html` directly. `.nojekyll` keeps GitHub Pages from applying Jekyll processing.
 
 GitHub Pages hosting and Google OAuth domain/brand verification are separate steps. A live HTTPS website does not itself prove Google has verified the domain or branding.
+
+On 25 October 2026, the v26 (1.0.3) homepage and policy were deployed and verified at their canonical HTTPS URLs: HTTP 200 and byte-identical HTML. This still does not mean App review or universal public-ranking access has passed.
